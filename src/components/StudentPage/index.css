@@ -1,0 +1,25 @@
+#name-card {
+    width: auto;
+    height: 300px;
+    grid-area: name;
+}
+
+#balloon {
+    width: auto;
+    height: 300px;
+    float: right;
+}
+
+#cartoon {
+    width: auto;
+    height: 350px;
+    grid-area: cartoon;
+    margin: 0 0 0 50px;
+}
+
+#text-card {
+    width: auto;
+    height: 350px;
+    grid-area: text;
+    margin: 0 0 0 50px;
+}

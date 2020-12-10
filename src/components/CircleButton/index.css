@@ -1,0 +1,9 @@
+#button {
+    transition: height .3s;
+
+    &:hover,
+    &:focus {
+        height: 545px;
+        cursor: pointer;
+    }
+}

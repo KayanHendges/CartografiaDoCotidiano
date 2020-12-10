@@ -1,0 +1,27 @@
+{
+    "estudantes": [
+        {
+            "name": "julia-torn-cardboard.png",
+            "bio": "julia-text-card.png",
+            "cartoon":"cartoon-julia.png",
+            "balloon":"student-baloon-julia.png"
+        },
+        {
+            "name": "karina-torn-cardboard.png",
+            "bio": "karina-text-card.png",
+            "cartoon":"cartoon-karina.png",
+            "balloon":"student-baloon-karina.png"
+        },
+        {
+            "name": "natalia-torn-cardboard.png",
+            "bio": "natalia-text-card.png",
+            "cartoon":"cartoon-natalia.png",
+            "balloon":"student-baloon-natalia.png"
+        },{
+            "name": "suelen-torn-cardboard.png",
+            "bio": "suelen-text-card.png",
+            "cartoon":"cartoon-suelen.png",
+            "balloon":"student-baloon-suelen.png"
+        }
+    ]
+}
